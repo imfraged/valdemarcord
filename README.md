@@ -10,6 +10,7 @@ pip install valdemarcord
 <h1 align="center">Discord</h1>
 Get build Number, X-Super-Properties, Useragent (Example):
 
+
 ```python
 from valdemarcord import Discord
 
@@ -19,10 +20,13 @@ useragent = Discord._fetch_useragent()
 
 print(build, xsup, useragent)
 ```
+
 ![image](https://github.com/user-attachments/assets/092a31b9-b2bf-4423-af7c-7ce80eda96b4)
 
 
 <h1 align="center">Colors</h1>
+Colors, Fades, Etc
+
 
 ```python
 from valdemarcord import Color
